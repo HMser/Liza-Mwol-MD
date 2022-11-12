@@ -1,11 +1,11 @@
 {
-	"name": "Millie-MD",
+	"name": "Liza-Mwol-MD",
 	"description": " Whatsapp bot.",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/Neeraj-x0/Millie-MD",
+	"repository": "https://github.com/HMser/Liza-Mwol-MD",
 	"stack": "container",
 	"env": {
 		"THUMBNAIL_IMAGE": {
